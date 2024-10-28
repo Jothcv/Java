@@ -18,6 +18,9 @@ Declara una variable String que contenga tu nombre y muestra la longitud de la c
 aqui usaremos un metodo para ver la longitud de una palabra para hacerlo nesesitamos usar
 la palabra clave: length
 
-### 5. Cadena de Texto:
+### 5. suma de arraus jsdjas:
 
-Declara una variable String que contenga tu nombre y muestra la longitud de la cadena.
+Suma de elementos específicos de un array
+Declara un array de enteros con cinco elementos.
+Crea una variable para almacenar la suma de dos posiciones específicas del array (por ejemplo, la suma del primer y tercer elemento).
+Muestra el resultado de la suma.
