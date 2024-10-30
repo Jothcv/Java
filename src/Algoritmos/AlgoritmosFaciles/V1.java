@@ -10,11 +10,12 @@ public class V1 {
         System.out.println("ingrese un numero para ver si es par o impar");
         int paraOimapar=Integer.parseInt(entrada.nextLine());
 
-        if (paraOimapar%2=0){
-            System.out.println("este numero es impar");
+        if (paraOimapar%2==0){
+            System.out.println("este numero es par");
         }
         else {
-            System.out.println("es par");
+            System.out.println("es impar");
         }
+
     }
 }
